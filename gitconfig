@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rania.achir@gmail.com
+	name = rania achir rania.achir@gmail.com
